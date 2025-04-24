@@ -52,7 +52,7 @@ Developer Instructions
 For those interested in modifying or contributing to the project:
 
 Clone the Repository
-git clone https://github.com/AshanOdi/WebRTC-deployed.git
+git clone https://github.com/AshanOdi/webrtc-firebase-demo.git
 cd webrtc-video-chat
 
 Install DependenciesInstall Firebase SDK:
